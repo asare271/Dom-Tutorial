@@ -9,7 +9,6 @@ list.addEventListener('click', function(e) {
         list.removeChild(li);
     }
 })
-
 //Add books-list
 const addForms = document.forms['add-book'];
 addForms.addEventListener('submit', function(e) {
